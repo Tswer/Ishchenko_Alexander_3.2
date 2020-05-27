@@ -1,0 +1,13 @@
+/Users/cg/Projects/3.2/3.2/obj/Debug/netcoreapp3.1/3.2.csprojAssemblyReference.cache
+/Users/cg/Projects/3.2/3.2/obj/Debug/netcoreapp3.1/3.2.AssemblyInfoInputs.cache
+/Users/cg/Projects/3.2/3.2/obj/Debug/netcoreapp3.1/3.2.AssemblyInfo.cs
+/Users/cg/Projects/3.2/3.2/bin/Debug/netcoreapp3.1/3.2
+/Users/cg/Projects/3.2/3.2/bin/Debug/netcoreapp3.1/3.2.deps.json
+/Users/cg/Projects/3.2/3.2/bin/Debug/netcoreapp3.1/3.2.runtimeconfig.json
+/Users/cg/Projects/3.2/3.2/bin/Debug/netcoreapp3.1/3.2.runtimeconfig.dev.json
+/Users/cg/Projects/3.2/3.2/bin/Debug/netcoreapp3.1/3.2.dll
+/Users/cg/Projects/3.2/3.2/bin/Debug/netcoreapp3.1/3.2.pdb
+/Users/cg/Projects/3.2/3.2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/cg/Projects/3.2/3.2/obj/Debug/netcoreapp3.1/3.2.csproj.CopyComplete
+/Users/cg/Projects/3.2/3.2/obj/Debug/netcoreapp3.1/3.2.dll
+/Users/cg/Projects/3.2/3.2/obj/Debug/netcoreapp3.1/3.2.pdb
